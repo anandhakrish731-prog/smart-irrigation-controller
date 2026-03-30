@@ -2,6 +2,7 @@
 MINI PROJECT FOR IRRIGATION SYSTEM
 
 CODE:
+
 // Corrected Arduino Soil Moisture Sensor with Variable Pump Speed
 // Motor ON when DRY, Motor OFF when WET (~70% or above)
 

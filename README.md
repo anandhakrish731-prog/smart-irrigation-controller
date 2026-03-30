@@ -1,2 +1,2 @@
-# smart-irrigation-controller
+# SMART IRRIGATION CONTROLLER
 mini project for irrigation system
